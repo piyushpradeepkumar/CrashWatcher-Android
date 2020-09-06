@@ -1,6 +1,6 @@
 # CrashWatcher
 
-### A Custom Uncaught Exception Handler, which can be used to pinpoint crashe, which includes :
+### A Custom Uncaught Exception Handler, which can be used to pinpoint crashes, which includes :
 - Stacktrace of the crash
 - The screens (Activities and Fragments) which lead up to the crash
 - The intents and bundle data sent to those screens
